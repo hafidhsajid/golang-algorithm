@@ -1,8 +1,6 @@
 package main
 
-import (
-	"golang/satu"
-)
+import "golang/function"
 
 func main() {
 	// var input string
@@ -14,8 +12,10 @@ func main() {
 
 	// satu.ShowInput()
 	// fmt.Println(satu.ReverseString("asdf"))
-	satu.FindDuplicate(("Hafidhsajid")) // expect 2h2af2i2dsj
+
+	// FunctionFindDuplicate("Hafidhsajid") // expect 2h2af2i2dsj
 	// satu.PrimeSearch()
-	// SwapVariable()
+	function.FindDuplicate("Hafidh Sajid") // expect 2h2af2i2dsj
+	// SwapVariable(2, 1)
 
 }
