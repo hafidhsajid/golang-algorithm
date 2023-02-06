@@ -20,6 +20,8 @@ func main() {
 	//expect
 	// prime number => "Bilangan Prima: + number"
 	// num%9==0 => "Kelipatan ke 9 ke- "
-	function.PrimeSearch()
+	// function.PrimeSearch()
+
+	function.ReverseString("Manusia") //expect aisunaM
 
 }
