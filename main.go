@@ -14,8 +14,12 @@ func main() {
 	// fmt.Println(satu.ReverseString("asdf"))
 
 	// FunctionFindDuplicate("Hafidhsajid") // expect 2h2af2i2dsj
-	// satu.PrimeSearch()
 	// function.FindDuplicate("Hafidh Sajid") // expect 2h2af2i2dsj
-	function.SwapVariable(2, 1)
+	// function.SwapVariable(2, 1)
+
+	//expect
+	// prime number => "Bilangan Prima: + number"
+	// num%9==0 => "Kelipatan ke 9 ke- "
+	function.PrimeSearch()
 
 }
