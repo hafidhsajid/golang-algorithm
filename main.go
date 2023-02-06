@@ -15,7 +15,7 @@ func main() {
 
 	// FunctionFindDuplicate("Hafidhsajid") // expect 2h2af2i2dsj
 	// satu.PrimeSearch()
-	function.FindDuplicate("Hafidh Sajid") // expect 2h2af2i2dsj
-	// SwapVariable(2, 1)
+	// function.FindDuplicate("Hafidh Sajid") // expect 2h2af2i2dsj
+	function.SwapVariable(2, 1)
 
 }
