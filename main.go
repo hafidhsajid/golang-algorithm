@@ -9,7 +9,6 @@ func main() {
 	// input := scanner.Text()
 	// fmt.Scanf("%s", input)
 
-	// FunctionFindDuplicate("Hafidhsajid") // expect 2h2af2i2dsj
 	// function.FindDuplicate("Hafidh Sajid") // expect 2h2af2i2dsj
 	// function.SwapVariable(2, 1)
 
